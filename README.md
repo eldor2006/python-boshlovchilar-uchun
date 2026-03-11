@@ -18,7 +18,7 @@ Har bir dars **kod + izoh + misollar** bilan tushuntirilgan.
 8. **08_dictionary.py** – dictionary, kalit-qiymat, `.items()`, `.keys()`, `.values()`
 9. **09_tuple.py** – tuple, indekslash, `.index()`, `.count()`
 10. **10_args_kwargs.py** – `*args` va `**kwargs` misollar bilan
-
+11. **11_class.py** - Pythonda `class` – obyektlar yaratish
 ## Foydalanuvchi uchun
 
 - Har bir faylni **Python 3** da ishga tushiring
